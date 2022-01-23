@@ -3,8 +3,8 @@
 
 # type in the command prompt 
 
-# git config --global user.name "username"  
-# git config --global user.email user-email.com 
+# git config --global user.name <"username">  
+# git config --global user.email <user-email>
 # (same email address you signed up for GitHub with)
 
 # confirm your changes by typing 
